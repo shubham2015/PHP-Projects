@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>
+		Comments Book
+	</title>
+</head>	
+	<body>
+		<h1>Do You Wanna Add Comments ?</h1>
+		<h2>Add Comments</h2>
+		<form action = "addComment.php" method = "post">
+		 Name: <input type = "text" name = "name"/><br/><br/>
+		 Email: <input type = "text" name = "email"/><br/><br/>
+		 Comments: <textarea name= "comments" rows = "4" cols="50"/> </textarea><br/>
+		 <input type = "submit" value = "add comment"/>
+		 <input type = "reset" value = "clear"/>
+		</form>
+		<br/><a href = "viewComments.php">View Posting Comments</a>
+		<br/><a href = "database.html">Add to Database</a>
+	</body>
+</html>

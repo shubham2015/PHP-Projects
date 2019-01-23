@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>
+		Home page ! Welcome
+	</title>
+	<meta charset="UTF-8">
+	<meta name = "viewport" content = "width=device-width, initial-scale =1">
+	<meta name = "author" content = "Shubham Pudi">
+	<link rel = "stylesheet" href="./css/homestyle.css">
+
+ </head>
+ <body>
+ 	<header>
+ 		<div class = "container">
+ 			<!--include file = "course.inc"-->
+ 		</div>
+ 	</header>
+ </body>
+ </html>
+ 
+
+
+
+
+

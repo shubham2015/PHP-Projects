@@ -1,0 +1,17 @@
+table,th,td
+{
+border: 1px solid black;
+text-align: center;
+}
+
+h1
+{
+	text-align: center;
+}
+
+td{
+	width: 100px;
+    height:100px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
